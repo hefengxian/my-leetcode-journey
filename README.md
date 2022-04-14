@@ -1,6 +1,7 @@
-
 <p align="center">
-  <img src="assets/leetcode_logo.svg" width="120" alt="LeetCode Logo">
+  <br>
+  <br>
+  <img src="assets/leetcode_logo.svg" width="240" alt="LeetCode Logo">
 </p>
 
 # My LeetCode Journey
