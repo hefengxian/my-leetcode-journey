@@ -6,10 +6,11 @@
 
 # My LeetCode Journey
 
-用来记录刷题过程，使用 2 种语言
+用来记录刷题过程，使用 3 种语言
 
 - Python
 - JavaScript
+- TypeScript（主要是为了熟练 TS）
 
 组织结构
 
