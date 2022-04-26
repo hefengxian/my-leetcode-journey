@@ -58,8 +58,8 @@ LeetCode Explore Learn
 - [x]  [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
 - [x]  [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
 - [x]  [Heap](https://leetcode.com/explore/learn/card/heap/) 这个看了一下，是锁住的，但是知道什么是 heap 了，一种特殊的二叉树
-- [ ]  🕒 [Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)
-- [ ]  Linked List
+- [x]  [Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)
+- [ ]  🕒 [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 - [ ]  Graph
 - [ ]  Dynamic Programing
 - [ ]  Trie
