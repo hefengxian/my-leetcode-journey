@@ -1,9 +1,9 @@
 class ListNode {
     val: number
     next: null | ListNode
-    constructor(val) {
+    constructor(val: number, next=null) {
         this.val = val
-        this.next = null
+        this.next = next
     }
 }
 
