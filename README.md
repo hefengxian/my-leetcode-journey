@@ -53,19 +53,30 @@
 
 LeetCode Explore Learn
 
-- [x]  [Array And String](https://leetcode.com/explore/learn/card/array-and-string/)
-- [x]  [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)
-- [x]  [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
-- [x]  [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
-- [x]  [Heap](https://leetcode.com/explore/learn/card/heap/) 这个看了一下，是锁住的，但是知道什么是 heap 了，一种特殊的二叉树
-- [x]  [Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)
-- [x]  [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
-- [ ]  🕒 [Graph](https://leetcode.com/explore/learn/card/graph/)
-- [ ]  Dynamic Programing
-- [ ]  Trie
-- [ ]  Decision Tree
-- [ ]  Binary Search
-- [ ]  Math
+- [x] [Array And String](https://leetcode.com/explore/learn/card/array-and-string/)
+- [x] [Hash Table](https://leetcode.com/explore/learn/card/hash-table/)
+- [x] [Binary Tree](https://leetcode.com/explore/learn/card/data-structure-tree/)
+- [x] [Binary Search Tree](https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/)
+- [x] [Heap](https://leetcode.com/explore/learn/card/heap/) 这个看了一下，是锁住的，但是知道什么是 heap 了，一种特殊的二叉树
+- [x] [Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/)
+- [x] [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
+- [ ] 🕒 [Graph](https://leetcode.com/explore/learn/card/graph/) —— 在 LeetCode 里这个模块基本是锁住的，所以后面的策略需要修改了，不能由这个知识点的学习来推进了
+  - [x] 了解 Graph 的概念
+  - [ ] 了解解决这类问题的经典算法
+  - [ ] 刷 400 题里 Graph 相关的题目（刷完这些题就算这个知识点就过了，如果有不懂的地方可以去搜索，而不是依赖 LeetCode 上面的讲解）
+    - [ ] 133 Clone Graph
+    - [ ] 399 Evaluate Division
+    - [ ] 310 Minimum Height Trees
+    - [ ] 149 Max Points on a Line
+    - [ ] 335 Self Crossing
+    - [ ] 356 Line Reflection
+    - [ ] 391 Perfect Rectangle
+    - [ ] 223 Rectangle Area
+- [ ] Dynamic Programing
+- [ ] Trie
+- [ ] Decision Tree
+- [ ] Binary Search
+- [ ] Math
 
 [《LeetCode 400题分类顺序表》](https://www.cspiration.com/#/leetcodeClassification)
 
